@@ -3,7 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Assistant Professor · <a href="https://www.rri.kyoto-u.ac.jp/en/">Institute for Integrated Radiation and Nuclear Science (KURNS)</a>, Kyoto University
+  Assistant Professor · <a href="https://www.rri.kyoto-u.ac.jp/">Institute for Integrated Radiation and Nuclear Science (KURNS)</a>, Kyoto University
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Institute for Integrated Radiation and Nuclear Science</p>
+    <p>Kumatori, Osaka, Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor (助教) at the [Institute for Integrated Radiation and Nuclear Science (KURNS)](https://www.rri.kyoto-u.ac.jp/en/), Kyoto University, located in Kumatori, Osaka, Japan, where I work in Prof. Ken Kurosaki's group.
+I am an Assistant Professor at the [Institute for Integrated Radiation and Nuclear Science (KURNS)](https://www.rri.kyoto-u.ac.jp/), Kyoto University, located in Kumatori, Osaka, Japan, where I work in Prof. Ken Kurosaki's group.
 
 My research combines **machine learning** with the study of the **thermophysical properties of nuclear and actinide materials**. I develop data-driven models for predicting materials properties — such as the thermal conductivity of uranium compounds — and validate them experimentally through synthesis (spark plasma sintering) and thermophysical characterization, including aerodynamic levitation techniques for molten materials at extreme temperatures. My work also extends to nuclear fuel debris characterization supporting reactor decommissioning, thermoelectric materials for energy conversion and space applications, and, more recently, natural language processing applied to public discourse on nuclear energy.
 
