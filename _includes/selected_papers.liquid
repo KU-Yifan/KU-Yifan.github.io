@@ -1,15 +1,14 @@
 {% comment %}
   LOCAL OVERRIDE of al_folio_core's selected_papers.liquid.
-  Yifan's rule for the homepage list: first-author papers only, ordered by
-  journal impact factor (descending). The explicit keys below are the source
-  of truth for that order — edit this list to change the homepage papers
-  (and keep selected={true} on the same entries in papers.bib for consistency).
+  Yifan's rule for the homepage list (2026-07-23): 5 papers, sorted by recency
+  then impact — the explicit keys below are the source of truth for the order.
+  To change the homepage papers: edit this key list (and keep selected={true}
+  on the same entries in papers.bib for consistency).
 {% endcomment %}
 <div class="publications">
-  {% bibliography --group_by none --query @*[key=sun2026lattice] %}
-  {% bibliography --group_by none --query @*[key=sun2023mechanical] %}
-  {% bibliography --group_by none --query @*[key=sun2022validating] %}
   {% bibliography --group_by none --query @*[key=sun2026thermophysical] %}
-  {% bibliography --group_by none --query @*[key=sun2025youtube] %}
+  {% bibliography --group_by none --query @*[key=sun2026lattice] %}
+  {% bibliography --group_by none --query @*[key=sun2025investigating] %}
   {% bibliography --group_by none --query @*[key=sun2024multiclass] %}
+  {% bibliography --group_by none --query @*[key=sun2023mechanical] %}
 </div>
