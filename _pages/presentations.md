@@ -17,7 +17,13 @@ nav_order: 3
 
 - Zhi Li, **Yifan Sun**, Ken Kurosaki, Christopher Wolverton. “A Domain-Knowledge-Embedded AI Framework for Evidence-Backed Thermoelectric Prediction and Synthesis Planning.” *2026 MRS Spring Meeting*, Apr 2026. [International]
 
+- 真木 康太郎, **孫 一帆**, 黒崎 健. “核燃料分野における計量書誌解析と生成AIによる新規横断研究課題の創出.” *日本原子力学会 2026年春の年会*, Mar 2026. [Domestic]
+
+- **孫 一帆**. “データ駆動型アプローチによる新規核燃料探索.” *日本原子力学会 2026年春の年会・企画セッション「核燃料開発へのAIの応用」*, Mar 2026. [Domestic]
+
 - **Yifan Sun**, Masaya Kumagai, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (15) Leveraging learned element embeddings for screening advanced nuclear fuel candidates.” *日本原子力学会 2026年春の年会*, Mar 2026. [Domestic]
+
+- 大谷 雄哉, **孫 一帆**, 黒崎 健. “福島第一原子力発電所の事故が福島県に関する報道に及ぼす影響.” *日本原子力学会 2026年春の年会*, Mar 2026. [Domestic]
 
 ### 2025
 
