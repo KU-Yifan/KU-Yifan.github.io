@@ -16,4 +16,4 @@ My research is collaborative by design — machine learning, thermophysical meas
 | **Assoc. Prof. Takaya Ogawa's group** | Kyoto University, Japan | Hypothesis generation · citation analysis |
 | **Prof. Benjamin McLellan** | Kyoto University, Japan | Computational social science |
 | **Prof. Albert Wu's group** | National Central University, Taiwan | Thin-film characterization |
-| **Assist. Prof. Sora-at Tanusilp** | Thailand | Thermoelectric materials |
+| **Assist. Prof. Sora-at Tanusilp** | Khon Kaen University, Thailand | Thermoelectric materials |
