@@ -25,4 +25,4 @@ My research combines **machine learning** with the study of the **thermophysical
 
 Before joining Kyoto University in 2023, I received my Ph.D. (2022) and M.S. (2019) in Engineering from Osaka University, where I was a JSPS Research Fellow, and my B.S. in Materials Science and Engineering from Northwestern University (2016).
 
-A complete list of my publications, presentations, and activities is available on [researchmap](https://researchmap.jp/R000036732) and [ORCID](https://orcid.org/0000-0001-6090-5993). You can reach me at [sun.yifan.7r@kyoto-u.ac.jp](mailto:sun.yifan.7r@kyoto-u.ac.jp).
+A complete list of my publications, presentations, and activities is available on [researchmap](https://researchmap.jp/sun.yifan.nu2016) and [ORCID](https://orcid.org/0000-0001-6090-5993). You can reach me at [sun.yifan.7r@kyoto-u.ac.jp](mailto:sun.yifan.7r@kyoto-u.ac.jp).
