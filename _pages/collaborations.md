@@ -12,7 +12,7 @@ mermaid:
 
 ```mermaid
 graph LR
-  YS(("**Yifan Sun**<br/>KURNS, Kyoto University"))
+  YS(("Yifan Sun<br/>KURNS, Kyoto University"))
 
   W["Wolverton group<br/>Northwestern University"]
   AW["Albert Wu group<br/>Taiwan"]
