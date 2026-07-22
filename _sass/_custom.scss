@@ -1,0 +1,9 @@
+/* Site-local style additions, loaded last from assets/css/main.scss. */
+
+/* Japanese text: Roboto has no CJK glyphs, so without an explicit fallback every
+   visitor's OS picks its own Japanese font. Noto Sans JP (loaded via the
+   google_fonts URL in _config.yml) makes 日本語 render consistently everywhere.
+   `html body` out-specifies the `body` rule shipped in the gem's tailwind.css. */
+html body {
+  font-family: Roboto, "Noto Sans JP", sans-serif;
+}

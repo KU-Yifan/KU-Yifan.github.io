@@ -3,7 +3,8 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: sun.yifan.7r@kyoto-u.ac.jp # your email address
 orcid_id: 0000-0001-6090-5993 # your ORCID ID
+scholar_userid: PDS5WxYAAAAJ # your Google Scholar ID
+research_gate_profile: Yifan-Sun-15 # your ResearchGate profile slug
 github_username: KU-Yifan # your GitHub user name
-# scholar_userid: # your Google Scholar ID
 # cv_pdf: # path to your CV PDF file
 # rss_icon: true # uncomment to show the RSS icon
