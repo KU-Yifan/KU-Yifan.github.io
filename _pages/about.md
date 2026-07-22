@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at the [Institute for Integrated Radiation and Nuclear Science (KURNS)](https://www.rri.kyoto-u.ac.jp/), Kyoto University, located in Kumatori, Osaka, Japan, where I work in Prof. Ken Kurosaki's group.
+I am an Assistant Professor at the [Institute for Integrated Radiation and Nuclear Science (KURNS)](https://www.rri.kyoto-u.ac.jp/), Kyoto University, located in Kumatori, Osaka, Japan, where I work in [Prof. Ken Kurosaki's group](https://www.rri.kyoto-u.ac.jp/ndp-lab/en/).
 
 My research combines **machine learning** with the study of the **thermophysical properties of thermoelectric and nuclear materials**. I develop data-driven models for predicting materials properties and validate them experimentally through synthesis and thermophysical characterization. My work also extends to nuclear fuel debris characterization supporting reactor decommissioning. More recently, I have been exploring how **large language models** can support research itself — from analyzing public discourse on nuclear energy to automating research workflows and building materials-property databases.
 
