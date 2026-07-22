@@ -1,6 +1,6 @@
-# Map venue abbreviations (as used in papers.bib) to journal URLs and badge colors.
-# Example:
-#
-# "JNST":
-#   url: https://www.tandfonline.com/journals/tnst20
-#   color: "#00369f"
+# Map venue abbreviations (as used in papers.bib) to URLs and badge colors.
+# An entry here turns that badge into a link and can recolor it.
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#b31b1b"

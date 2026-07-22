@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed journal articles and preprints, in reverse chronological order. Generated from BibTeX.
+description: Journal articles and arXiv preprints, in reverse chronological order. Papers available on both carry two badges.
 nav: true
 nav_order: 2
 ---
@@ -13,18 +13,10 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-### Journal articles ({% bibliography_count --query @article %})
+**{% bibliography_count %} publications**
 
 <div class="publications">
 
-{% bibliography --query @article %}
-
-</div>
-
-### Preprints ({% bibliography_count --query @misc %})
-
-<div class="publications">
-
-{% bibliography --query @misc %}
+{% bibliography %}
 
 </div>

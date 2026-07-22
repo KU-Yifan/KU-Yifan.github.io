@@ -12,8 +12,8 @@ My research is collaborative by design — machine learning, thermophysical meas
 | Partner | Institution | What we work on |
 | :--- | :--- | :--- |
 | **Wolverton group** | Northwestern University, USA | Thermoelectrics · data-driven materials informatics |
-| **Albert Wu group** | National Central University, Taiwan | Thin-film characterization |
 | **Yang Liu** | Kyoto University, Japan | AI for Science |
-| **Sora-at Tanusilp & collaborators** | Thailand | Thermoelectric materials |
 | **Takaya Ogawa group** | Kyoto University, Japan | Hypothesis generation · citation analysis |
 | **Benjamin McLellan** | Kyoto University, Japan | Computational social science |
+| **Albert Wu group** | National Central University, Taiwan | Thin-film characterization |
+| **Sora-at Tanusilp** | Thailand | Thermoelectric materials |
