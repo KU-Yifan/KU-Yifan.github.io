@@ -3,6 +3,10 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # email icon removed on purpose (2026-07-23) — address shown obfuscated via contact_note in _config.yml instead
 orcid_id: 0000-0001-6090-5993 # your ORCID ID
+kyoto_university_database: # Kyoto University Activity Database (KDB) profile
+  logo: /assets/img/kdb-icon.png
+  title: Kyoto University Activity Database
+  url: https://kdb.iimc.kyoto-u.ac.jp/profile/en.ae28d0959b27438b.html
 scholar_userid: PDS5WxYAAAAJ # your Google Scholar ID
 research_gate_profile: Yifan-Sun-15 # your ResearchGate profile slug
 github_username: KU-Yifan # your GitHub user name

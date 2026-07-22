@@ -7,3 +7,13 @@
 html body {
   font-family: Roboto, "Noto Sans JP", sans-serif;
 }
+
+/* Custom image logos in the social-icons row (e.g. the 京大 KDB badge) should
+   match the font-icon size instead of rendering at native pixel size. */
+.social .contact-icons img,
+.social .contact-icons svg {
+  height: 1em;
+  width: 1em;
+  vertical-align: -0.1em;
+  border-radius: 0.15em;
+}
