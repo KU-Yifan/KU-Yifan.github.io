@@ -13,6 +13,8 @@ nav_order: 3
 
 - **Yifan Sun**, Chisato Sakaguchi, Yoichi Endo, Toru Higuchi, Ken Kurosaki. “A Deep-Learning Approach Towards Automated Crystalline Phase Identification in Simulated Fuel Debris.” *日本原子力学会 2026年秋の大会*, 2026. Accepted. [Domestic]
 
+- Hironobu Nakamura, **Yifan Sun**, Masaya Kumagai, Ken Kurosaki, Yuji Ohishi. “New Developments in Nuclear Fuel Research through Integration with Data Science (20) Thermophysical Properties of U<sub>2</sub>NiC<sub>3</sub> Fabricated by Spark Plasma Sintering: Comparison with Machine Learning Predictions.” *日本原子力学会 2026年秋の大会*, 2026. [Domestic]
+
 ### 2026
 
 - Zhi Li, **Yifan Sun**, Ken Kurosaki, Christopher Wolverton. “A Domain-Knowledge-Embedded AI Framework for Evidence-Backed Thermoelectric Prediction and Synthesis Planning.” *2026 MRS Spring Meeting*, Apr 2026. [International]
