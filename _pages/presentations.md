@@ -19,6 +19,8 @@ nav_order: 3
 
 - Zhi Li, **Yifan Sun**, Ken Kurosaki, Christopher Wolverton. “A Domain-Knowledge-Embedded AI Framework for Evidence-Backed Thermoelectric Prediction and Synthesis Planning.” *2026 MRS Spring Meeting*, Apr 2026. [International]
 
+- **Yifan Sun**, Zhi Li, Ken Kurosaki, Chris Wolverton. “Development of a Retrieval-Augmented Generation-Based Conversational Agent for Accelerating the Discovery of High-Efficiency Thermoelectric Materials.” *2026 TMS Annual Meeting & Exhibition*, Mar 2026. **Invited.** [International]
+
 - 真木 康太郎, **孫 一帆**, 黒崎 健. “核燃料分野における計量書誌解析と生成AIによる新規横断研究課題の創出.” *日本原子力学会 2026年春の年会*, Mar 2026. [Domestic]
 
 - **孫 一帆**. “データ駆動型アプローチによる新規核燃料探索.” *日本原子力学会 2026年春の年会・企画セッション「核燃料開発へのAIの応用」*, Mar 2026. [Domestic]
