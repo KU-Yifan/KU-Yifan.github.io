@@ -64,6 +64,18 @@
       {% if site.max_author_limit and author_array_size > site.max_author_limit %}
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
+      {% comment %} LOCAL OVERRIDE addition: never hide Yifan behind "more authors" —
+         if his position is past the display limit, extend the visible list through his
+         name so the collapse starts after him. {% endcomment %}
+      {%- for author in entry.author_array -%}
+        {%- assign check_last = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+        {%- if site.scholar.last_name contains check_last and site.scholar.first_name contains author.first -%}
+          {%- if forloop.index > author_array_limit -%}
+            {%- assign author_array_limit = forloop.index -%}
+          {%- endif -%}
+          {% break %}
+        {%- endif -%}
+      {%- endfor -%}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
