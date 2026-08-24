@@ -43,8 +43,6 @@ nav_order: 3
 
 - **Yifan Sun**, Sora-at Tanusilp, Masaya Kumagai, Yuji Ohishi, Hiroaki Muta, Ken Kurosaki. “Leveraging machine learning to enhance the performance of filled skutterudites through composition optimization.” *2025 TMS Annual Meeting & Exhibition*, Mar 2025. **Invited.** [International]
 
-- **孫 一帆**, Benjamin Mclellan, 黒崎 健. “Google Trendsデータを用いた福島第一原発事故の社会的影響の可視化.” *日本原子力学会関西支部「第20回若手研究者による研究発表会」*, Mar 2025. [Domestic]
-
 ### 2024
 
 - 今村哲也, **孫一帆**, 熊谷将也, 黒﨑健, 牟田浩明, 大石佑治. “機械学習を用いたquality factorに基づく熱電材料探索手法の開発.” *日本熱電学会*, Sep 2024. Poster. [Domestic]
@@ -53,19 +51,11 @@ nav_order: 3
 
 - 寅田 琉介, 大石 佑治, 牟田 浩明, **孫 一帆**, 熊谷 将也, 黒﨑 健. “データ科学との融合による核燃料研究の新展開 (11) 機械学習を用いた新規高熱伝導率核燃料の選択とU<sub>2</sub>Tiの物性評価.” *日本原子力学会 2024年秋の大会*, Sep 2024. [Domestic]
 
-- **Yifan Sun**, Masaya Kumagai, Mingyu Jin, Eriko Sato, Masako Aoki, Yuji Ohishi, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (8) Harnessing Machine Learning for the Discovery of High Thermal Conductivity Fuel Candidates.” *日本原子力学会 2024年春の大会*, Mar 2024. [Domestic]
+- **Yifan Sun**, Masaya Kumagai, Mingyu Jin, Eriko Sato, Masako Aoki, Yuji Ohishi, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (8) Harnessing Machine Learning for the Discovery of High Thermal Conductivity Fuel Candidates.” *日本原子力学会 2024年春の年会*, Mar 2024. [Domestic]
 
 - **Yifan Sun**, Masaya Kumagai, Yuji Ohishi, Eriko Sato, Masako Aoki, Ken Kurosaki. “Optimizing Thermal Conductivity Prediction of Uranium Compounds using Balanced Multiclass Classification.” *TMS 2024 Annual Meeting & Exhibition*, Mar 2024. [International]
 
-- Y. Sun, M. Kumagai, K. Kurosaki. “A Generalized Machine Learning Model for Predicting Thermal Conductivity and Its Application to Zirconium Compounds.” *6th Asian Zirconium Workshop*, Feb 2024. Poster. [International]
-
 ### 2023
-
-- **孫 一帆**, 熊谷 将也, 金 明玉, 佐藤 恵理子, 青木 雅子, 大石 佑治, 黒崎 健. “分類機械学習モデルによるウラン化合物の熱伝導率予測.” *事故耐性燃料開発に関するワークショップ*, Dec 2023. [Domestic]
-
-- **Yifan Sun**. “Predicting thermal conductivity via machine learning.” *東北大学宮崎教授研究会*, Oct 2023. **Invited.** [Domestic]
-
-- **孫一帆**. “先進核燃料探索における機械学習の役割.” *2023年度原子力関係科学技術の基礎的研究の動向調査委員会*, Oct 2023. **Invited.** [Domestic]
 
 - **Yifan Sun**, Yuji Miyawaki, Yuji Ohishi, Hiroaki Muta, Shun Fujieda, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (5) Fabrication and Characterization of Metallic Uranium Compounds (UFe<sub>3</sub>B<sub>2</sub>, USiNi) Prepared via Spark Plasma Sintering.” *日本原子力学会 2023年秋の大会*, Sep 2023. [Domestic]
 
@@ -83,7 +73,7 @@ nav_order: 3
 
 - 高谷 友哉, **孫 一帆**, 牟田 浩明, 大石 佑治. “液滴反跳挙動からのAl<sub>2</sub>O<sub>3</sub>の表面張力と粘性の評価.” *第42回日本熱物性シンポジウム*, Oct 2021. [Domestic]
 
-- **孫一帆**, 牟田浩明, 大石佑治. “Heat capacity measurement of high-temperature liquid metals with aerodynamic levitation.” *The 42nd Japan Symposium on Thermophysical Properties*, Oct 2021. [International]
+- **孫一帆**, 牟田浩明, 大石佑治. “Heat capacity measurement of high-temperature liquid metals with aerodynamic levitation.” *The 42nd Japan Symposium on Thermophysical Properties*, Oct 2021. [Domestic]
 
 - 大石 佑治, **孫 一帆**, 高谷 友哉, 牟田 浩明, 近藤 俊樹, 菊地 晋. “多様な革新的ナトリウム冷却高速炉における統合安全性評価シミュレーション基盤システムの開発 (5) 融体熱物性データベース構築の計画.” *日本原子力学会 2021年秋の大会*, Sep 2021. [Domestic]
 
@@ -91,7 +81,7 @@ nav_order: 3
 
 ### 2020
 
-- **Yifan Sun**, Hiroaki Muta, Yuji Ohishi. “溶融物の表面張力評価手法の開発：液滴反跳法.” *The 41st Japan Symposium on Thermophysical Properties*, Oct 2020. [International]
+- **Yifan Sun**, Hiroaki Muta, Yuji Ohishi. “溶融物の表面張力評価手法の開発：液滴反跳法.” *The 41st Japan Symposium on Thermophysical Properties*, Oct 2020. [Domestic]
 
 ### 2019
 
@@ -101,5 +91,5 @@ nav_order: 3
 
 ### 2018
 
-- **孫一帆**, 牟田浩明, 黒崎健, 大石佑治. “Thermal Conductivity of Liquid Phase Al-Si Alloys.” *The 39th Japan Symposium on Thermophysical Properties*, Nov 2018. [International]
+- **孫一帆**, 牟田浩明, 黒崎健, 大石佑治. “Thermal Conductivity of Liquid Phase Al-Si Alloys.” *The 39th Japan Symposium on Thermophysical Properties*, Nov 2018. [Domestic]
 

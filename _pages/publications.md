@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Journal articles and arXiv preprints, in reverse chronological order. Papers available on both carry two badges.
+description: Journal articles and arXiv preprints, in reverse chronological order.
 nav: true
 nav_order: 2
 ---

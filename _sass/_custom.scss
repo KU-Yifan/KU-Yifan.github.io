@@ -83,18 +83,26 @@ ol.bibliography .links {
   row-gap: 0.35rem;
 }
 
-.publications .links .btn,
-ol.bibliography .links .btn {
+/* Selector mirrors the gem's own `.publications ol.bibliography li .links a.btn`
+   (specificity 0,4,2) — _custom.scss is emitted last, so an equal-specificity
+   rule here wins. A weaker selector silently loses. */
+.publications ol.bibliography li .links a.btn {
   border: none;
   background: none;
   padding: 0;
+  margin: 0;
   font-size: 0.78rem;
   color: var(--global-theme-color);
 }
 
-.publications .links .btn:hover,
-ol.bibliography .links .btn:hover {
+.publications ol.bibliography li .links a.btn:hover {
   background: none;
+  border-color: transparent;
   color: var(--global-hover-color);
   text-decoration: underline;
+}
+
+.publications ol.bibliography li .links a.award.btn {
+  border: none;
+  color: var(--global-highlight-color);
 }
