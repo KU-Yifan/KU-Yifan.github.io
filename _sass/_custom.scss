@@ -57,18 +57,22 @@ html body {
   text-decoration: underline;
 }
 
-/* Entry rhythm: hairlines instead of badge blocks. */
-ol.bibliography > li {
-  padding: 1.25rem 0;
-}
-
-ol.bibliography > li + li {
+/* Entry rhythm, following direction B: ONE hairline above the publications
+   block, and whitespace (not rules) between entries. */
+.publications {
   border-top: 1px solid var(--global-divider-color);
+  padding-top: 1.5rem;
 }
 
-ol.bibliography .title {
-  font-size: 1rem;
+.publications ol.bibliography > li {
+  padding: 0.9rem 0;
+  border-top: none;
+}
+
+.publications ol.bibliography .title {
+  font-size: 1.05rem;
   font-weight: 500;
+  line-height: 1.4;
 }
 
 /* Quiet text links instead of bordered buttons. Flex + gap rather than
@@ -105,4 +109,26 @@ ol.bibliography .links {
 .publications ol.bibliography li .links a.award.btn {
   border: none;
   color: var(--global-highlight-color);
+}
+
+
+/* ---------------------------------------------------------------------------
+   Direction B: warm paper palette and a serif display face.
+   The palette is redefined on :root, which is LIGHT-ONLY — dark mode sets the
+   same variables on html[data-theme=dark], a higher-specificity selector, so
+   it keeps its own values untouched.
+   --------------------------------------------------------------------------- */
+
+:root {
+  --global-bg-color: #faf9f6;
+  --global-text-color: #201d1a;
+  --global-divider-color: #e7e2da;
+}
+
+.post-title,
+h2.bibliography,
+.publications ol.bibliography .title,
+.post-content > h2 {
+  font-family: Newsreader, Georgia, "Times New Roman", serif;
+  font-weight: 500;
 }
