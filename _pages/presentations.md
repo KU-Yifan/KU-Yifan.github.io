@@ -51,9 +51,9 @@ nav_order: 3
 
 - **孫 一帆**, 鶴田 博文, 熊谷 将也, 黒崎 健. “日本国内における原子力エネルギーに関する報道のトピックと感情分析.” *日本原子力学会 2024年秋の大会*, Sep 2024. [Domestic]
 
-- 寅田 琉介, 大石 佑治, 牟田 浩明, **孫 一帆**, 熊谷 将也, 黒﨑 健. “機械学習を用いた新規高熱伝導率核燃料の選択とU2Tiの物性評価.” *日本原子力学会 2024年秋の大会*, Sep 2024. [Domestic]
+- 寅田 琉介, 大石 佑治, 牟田 浩明, **孫 一帆**, 熊谷 将也, 黒﨑 健. “データ科学との融合による核燃料研究の新展開 (11) 機械学習を用いた新規高熱伝導率核燃料の選択とU<sub>2</sub>Tiの物性評価.” *日本原子力学会 2024年秋の大会*, Sep 2024. [Domestic]
 
-- **Yifan Sun**, Masaya Kumagai, Mingyu Jin, Eriko Sato, Masako Aoki, Yuji Ohishi, Ken Kurosaki. “Harnessing Machine Learning for the Discovery of High Thermal Conductivity Fuel Candidates.” *日本原子力学会 2024年春の大会*, Mar 2024. [Domestic]
+- **Yifan Sun**, Masaya Kumagai, Mingyu Jin, Eriko Sato, Masako Aoki, Yuji Ohishi, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (8) Harnessing Machine Learning for the Discovery of High Thermal Conductivity Fuel Candidates.” *日本原子力学会 2024年春の大会*, Mar 2024. [Domestic]
 
 - **Yifan Sun**, Masaya Kumagai, Yuji Ohishi, Eriko Sato, Masako Aoki, Ken Kurosaki. “Optimizing Thermal Conductivity Prediction of Uranium Compounds using Balanced Multiclass Classification.” *TMS 2024 Annual Meeting & Exhibition*, Mar 2024. [International]
 
@@ -67,7 +67,7 @@ nav_order: 3
 
 - **孫一帆**. “先進核燃料探索における機械学習の役割.” *2023年度原子力関係科学技術の基礎的研究の動向調査委員会*, Oct 2023. **Invited.** [Domestic]
 
-- **Yifan Sun**, Yuji Miyawaki, Yuji Ohishi, Hiroaki Muta, Shun Fujieda, Ken Kurosaki. “Fabrication and Characterization of Metallic Uranium Compounds (UFe3B2, USiNi) Prepared via Spark Plasma Sintering.” *日本原子力学会 2023年秋の大会*, Sep 2023. [Domestic]
+- **Yifan Sun**, Yuji Miyawaki, Yuji Ohishi, Hiroaki Muta, Shun Fujieda, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (5) Fabrication and Characterization of Metallic Uranium Compounds (UFe<sub>3</sub>B<sub>2</sub>, USiNi) Prepared via Spark Plasma Sintering.” *日本原子力学会 2023年秋の大会*, Sep 2023. [Domestic]
 
 ### 2022
 
@@ -81,7 +81,7 @@ nav_order: 3
 
 - **孫一帆**, 牟田浩明, 大石佑治. “ガス浮遊法による溶融炉心物質の熱容量の測定技術の開発.” *IRIDシンポジウム2021*, Dec 2021. **Invited.** [Domestic]
 
-- 高谷 友哉, **孫 一帆**, 牟田 浩明, 大石 佑治. “液滴反跳挙動からのAl2O3の表面張力と粘性の評価.” *第42回日本熱物性シンポジウム*, Oct 2021. [Domestic]
+- 高谷 友哉, **孫 一帆**, 牟田 浩明, 大石 佑治. “液滴反跳挙動からのAl<sub>2</sub>O<sub>3</sub>の表面張力と粘性の評価.” *第42回日本熱物性シンポジウム*, Oct 2021. [Domestic]
 
 - **孫一帆**, 牟田浩明, 大石佑治. “Heat capacity measurement of high-temperature liquid metals with aerodynamic levitation.” *The 42nd Japan Symposium on Thermophysical Properties*, Oct 2021. [International]
 
