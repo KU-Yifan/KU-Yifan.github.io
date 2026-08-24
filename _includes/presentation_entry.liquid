@@ -1,0 +1,21 @@
+{% comment %}
+  One presentation record, rendered with the same anatomy as a publication
+  entry (venue label / title / authors). Takes `entry` from _data/presentations.yml.
+{% endcomment %}
+{% assign a = entry.authors %}
+{% assign a = a | replace: 'Yifan Sun', '<em>Yifan Sun</em>' %}
+{% assign a = a | replace: '孫 一帆', '<em>孫 一帆</em>' %}
+{% assign a = a | replace: '孫一帆', '<em>孫一帆</em>' %}
+{% assign a = a | replace: 'Y. Sun', '<em>Y. Sun</em>' %}
+<li>
+  <div class="venue-label">
+    <span class="venue-name">{{ entry.venue }}</span>
+    {%- if entry.month or entry.year %}<span class="venue-date">{% if entry.month %}{{ entry.month }} {% endif %}{{ entry.year }}</span>{% endif -%}
+    {%- if entry.region %}<span class="venue-region">{{ entry.region }}</span>{% endif -%}
+    {%- if entry.poster %}<span class="venue-kind">Poster</span>{% endif -%}
+    {%- if entry.invited %}<span class="venue-invited">Invited</span>{% endif -%}
+  </div>
+  <div class="title">{{ entry.title }}</div>
+  <div class="author">{{ a }}</div>
+  {%- if entry.note %}<div class="periodical">{{ entry.note }}</div>{% endif -%}
+</li>
