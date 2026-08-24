@@ -31,6 +31,10 @@ nav_order: 3
 
 ### 2025
 
+- **Yifan Sun**, Ryusuke Torata, Hiroaki Muta, Yuji Ohishi, Ken Kurosaki. “New Developments in Nuclear Fuel Research through Integration with Data Science (14) Thermophysical Property Evaluation of UBC Fabricated via Spark Plasma Sintering.” *日本原子力学会 2025年秋の大会*, Sep 2025. [Domestic]
+
+- 中村 寛信, **孫 一帆**, 熊谷 将也, 黒﨑 健, 大石 佑治. “データ科学との融合による核燃料研究の新展開 (13) 機械学習に基づく新規核燃料候補材料UCoの合成と物性評価.” *日本原子力学会 2025年秋の大会*, Sep 2025. [Domestic]
+
 - **Yifan Sun**, Tetsuya Imamura, Sora-at Tanusilp, Hirofumi Tsuruta, Masaya Kumagai, Yuji Ohishi, Ken Kurosaki. “A Divide and Conquer Approach to Identifying Ultralow Thermal Conductivity Materials with Machine Learning.” *The 41st International and 7th Asian Conference on Thermoelectrics*, Jun 2025. Poster. [International]
 
 - Tetsuya Imamura, **Yifan Sun**, Masaya Kumagai, Ken Kurosaki, Hirofumi Tsuruta, Hiroaki Muta, Yuji Ohishi. “Development of a machine learning model for exploring high performance thermoelectric materials based on the quality factor.” *The 41st International and 7th Asian Conference on Thermoelectrics*, Jun 2025. Poster. [International]
@@ -69,6 +73,8 @@ nav_order: 3
 
 - **Yifan Sun**, Kitagawa Shuho, Hiroaki Muta, Ken Kurosaki, Yuji Ohishi. “Density measurement using the ‘drop-method’ with aerodynamic levitation.” *The 13th Asian Thermophysical Properties Conference*, Sep 2022. [International]
 
+- 大石 佑治, **孫 一帆**, 合田 尚友, 牟田 浩明, 山路 哲史. “Multi-Physicsモデリングによる福島2・3号機ペデスタル燃料デブリ深さ方向の性状同定 (13) 先行流出物の特性評価.” *日本原子力学会 2022年春の年会*, Mar 2022. [Domestic]
+
 - **Yifan Sun**, Hiroaki Muta, Yuji Ohishi. “Development of surface tension and heat capacity measurement techniques for molten materials using aerodynamic levitation.” *TMS 2022 Annual Meeting & Exhibition*, Feb 2022. [International]
 
 ### 2021
@@ -78,6 +84,10 @@ nav_order: 3
 - 高谷 友哉, **孫 一帆**, 牟田 浩明, 大石 佑治. “液滴反跳挙動からのAl2O3の表面張力と粘性の評価.” *第42回日本熱物性シンポジウム*, Oct 2021. [Domestic]
 
 - **孫一帆**, 牟田浩明, 大石佑治. “Heat capacity measurement of high-temperature liquid metals with aerodynamic levitation.” *The 42nd Japan Symposium on Thermophysical Properties*, Oct 2021. [International]
+
+- 大石 佑治, **孫 一帆**, 高谷 友哉, 牟田 浩明, 近藤 俊樹, 菊地 晋. “多様な革新的ナトリウム冷却高速炉における統合安全性評価シミュレーション基盤システムの開発 (5) 融体熱物性データベース構築の計画.” *日本原子力学会 2021年秋の大会*, Sep 2021. [Domestic]
+
+- 大石 佑治, 田中 喜宇, **Yifan Sun**, 牟田 浩明. “Multi-Physicsモデリングによる福島2・3号機ペデスタル燃料デブリ深さ方向の性状同定 (8) Fe-B溶融合金の比熱評価.” *日本原子力学会 2021年春の年会*, Mar 2021. [Domestic]
 
 ### 2020
 
@@ -92,3 +102,4 @@ nav_order: 3
 ### 2018
 
 - **孫一帆**, 牟田浩明, 黒崎健, 大石佑治. “Thermal Conductivity of Liquid Phase Al-Si Alloys.” *The 39th Japan Symposium on Thermophysical Properties*, Nov 2018. [International]
+
