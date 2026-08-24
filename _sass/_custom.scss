@@ -17,3 +17,84 @@ html body {
   width: 1.1em;
   vertical-align: -0.38em;
 }
+
+/* ---------------------------------------------------------------------------
+   Publication entries — venue-label treatment (replaces the old badge column).
+   Each entry reads: venue line / title / authors / quiet links.
+   All colours come from theme variables so light and dark both work; the only
+   literal is the arXiv red.
+   --------------------------------------------------------------------------- */
+
+.venue-label {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--global-theme-color);
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
+}
+
+.venue-label .venue-date::before {
+  content: "·";
+  margin: 0 0.45em;
+}
+
+/* arXiv is a wordmark: it must escape the label's uppercasing. */
+.venue-label .arxiv-tag {
+  color: #b31b1b;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  margin-left: 0.7em;
+  text-decoration: none;
+}
+
+.venue-label .arxiv-tag:hover {
+  color: #b31b1b;
+  text-decoration: underline;
+}
+
+/* Entry rhythm: hairlines instead of badge blocks. */
+ol.bibliography > li {
+  padding: 1.25rem 0;
+}
+
+ol.bibliography > li + li {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+ol.bibliography .title {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* Quiet text links instead of bordered buttons. Flex + gap rather than
+   middle dots: a pseudo-element inside an anchor inherits the hover
+   underline and reads as broken. */
+.publications .links,
+ol.bibliography .links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 1rem;
+  row-gap: 0.35rem;
+}
+
+.publications .links .btn,
+ol.bibliography .links .btn {
+  border: none;
+  background: none;
+  padding: 0;
+  font-size: 0.78rem;
+  color: var(--global-theme-color);
+}
+
+.publications .links .btn:hover,
+ol.bibliography .links .btn:hover {
+  background: none;
+  color: var(--global-hover-color);
+  text-decoration: underline;
+}
