@@ -45,7 +45,7 @@ nav_order: 3
 
 ### 2024
 
-- 今村哲也, **孫一帆**, 熊谷将也, 黒﨑健, 牟田浩明, 大石佑治. “機械学習を用いたquality factorに基づく熱電材料探索手法の開発.” *日本熱電学会*, Sep 2024. Poster. [Domestic]
+- 今村哲也, **孫一帆**, 熊谷将也, 黒﨑健, 牟田浩明, 大石佑治. “機械学習を用いたquality factorに基づく熱電材料探索手法の開発.” *第21回日本熱電学会学術講演会*, Sep 2024. Poster. [Domestic]
 
 - **孫 一帆**, 鶴田 博文, 熊谷 将也, 黒崎 健. “日本国内における原子力エネルギーに関する報道のトピックと感情分析.” *日本原子力学会 2024年秋の大会*, Sep 2024. [Domestic]
 
@@ -68,8 +68,6 @@ nav_order: 3
 - **Yifan Sun**, Hiroaki Muta, Yuji Ohishi. “Development of surface tension and heat capacity measurement techniques for molten materials using aerodynamic levitation.” *TMS 2022 Annual Meeting & Exhibition*, Feb 2022. [International]
 
 ### 2021
-
-- **孫一帆**, 牟田浩明, 大石佑治. “ガス浮遊法による溶融炉心物質の熱容量の測定技術の開発.” *IRIDシンポジウム2021*, Dec 2021. **Invited.** [Domestic]
 
 - 高谷 友哉, **孫 一帆**, 牟田 浩明, 大石 佑治. “液滴反跳挙動からのAl<sub>2</sub>O<sub>3</sub>の表面張力と粘性の評価.” *第42回日本熱物性シンポジウム*, Oct 2021. [Domestic]
 
