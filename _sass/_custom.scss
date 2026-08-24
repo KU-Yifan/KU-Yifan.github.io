@@ -69,6 +69,13 @@ html body {
   border-top: none;
 }
 
+/* The theme already rules each year heading; without this the block's own
+   rule and the first year's rule stack up as a double line. */
+.publications h2.bibliography:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+
 .publications ol.bibliography .title {
   font-size: 1.05rem;
   font-weight: 500;
