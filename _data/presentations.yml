@@ -8,9 +8,8 @@
   authors: "Yifan Sun, Zhi Li, Tetsuya Imamura, Yuji Ohishi, Chris Wolverton, Ken Kurosaki"
   venue: "第23回日本熱電学会学術講演会"
   year: "2026"
+  month: "Sep"
   region: domestic
-  upcoming: true
-  note: "Oral, accepted"
 
 - title: "A Deep-Learning Approach Towards Automated Crystalline Phase Identification in Simulated Fuel Debris"
   authors: "Yifan Sun, Chisato Sakaguchi, Yoichi Endo, Toru Higuchi, Ken Kurosaki"
